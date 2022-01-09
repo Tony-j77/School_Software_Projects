@@ -35,5 +35,9 @@ This repo contains all the assignments/projects that I worked on during my high 
 - Game of life
 > Classic computer science project
 - Sum of numbers
-+sds
+> Adds numbers in user-defined range by printing all numbber with "+" and concluding with "=" and the answer
+- Triangle, Triangle classifier, TriangleUI
+> Determine whether a triangle is equilateral, isosceles or scalene with GUI
+- Weather
+> Tells user what the weather is
 

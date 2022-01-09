@@ -41,3 +41,6 @@ This repo contains all the assignments/projects that I worked on during my high 
 - Weather
 > Tells user what the weather is
 
+### Grade 12
+- Humans sort
+> User can ask to get all humans that have specific attributes and the code with search through the database with all humans matching the user-defined attribute

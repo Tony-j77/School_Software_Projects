@@ -1,4 +1,7 @@
 # School_Software_Projects
 
-## High school computers science projects
+## High school computer science class assignments/projects
+
+
+
 

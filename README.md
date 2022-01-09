@@ -7,7 +7,10 @@ This repo contains all the assignments/projects that I worked on during my high 
 # Project list:
 ### CS 10: 
 - Area of a triangle 
->dfdf
-- 
+> Calculates the area of a triangle with given input
+- Average jump distance
+> Calculates the average of given inputs
+- Sandwich 
+> Subway simulator (asks the user for their optimally built sandwich and calculates price of sandwich given ingredients)
 
 

@@ -6,7 +6,8 @@ This repo contains all the assignments/projects that I worked on during my high 
 
 # Project list:
 ### CS 10: 
-- Area of a triangle
+- Area of a triangle 
+>
 - 
 
 

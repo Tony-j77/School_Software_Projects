@@ -28,5 +28,12 @@ This repo contains all the assignments/projects that I worked on during my high 
 > Prints a bunch of triangles in console... in a pretty manner.
 
 ### Grade 11:
-
+- Bank, BankAccount, BankAccountGUI, BankAccountImproved
+> functional bank account with deposit, withdraw and individual account balances with password protection
+- ComboLock
+> Turn on direction to a number, turn the opposite direction to another number, then turn to yet another number POP! lock is open
+- Game of life
+> Classic computer science project
+- Sum of numbers
++sds
 
